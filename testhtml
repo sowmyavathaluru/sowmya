@@ -1,0 +1,4 @@
+.chat{
+bottom: 100px
+top: 10px
+}
