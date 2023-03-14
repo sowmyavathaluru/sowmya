@@ -1,0 +1,9 @@
+Rules for Declaring Variables:−
+
+Variable Name must begin with an alphabet.
+
+Variable names cannot exceed 255 characters.
+
+Variables Should NOT contain a period (.)
+
+Variable Names should be unique in the declared context.
